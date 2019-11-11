@@ -2,7 +2,7 @@
 
 Source code for [Attributed Random Walk as Matrix Factorization](https://grlearning.github.io/papers/95.pdf).
 
-[Lei Chen](https://leichen2018.github.io), Shunwang Gong, [Joan Bruna](https://cims.nyu.edu/~bruna/), [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein).
+Authors: [Lei Chen](https://leichen2018.github.io), Shunwang Gong, [Joan Bruna](https://cims.nyu.edu/~bruna/), [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein).
 
 [Graph Representation Learning Workshop NeurIPS 2019](https://grlearning.github.io).
 
