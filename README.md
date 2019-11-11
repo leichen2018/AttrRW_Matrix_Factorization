@@ -83,7 +83,7 @@ python main.py --model NetMF --dataset blogcatalog --gpu 0 --proportion 0.1 --se
 
 ## Postprocess Results
 
-Note that previous scripts store results for specific seeds, with a prefix in `--output_file`.
+Note that previous scripts store results in directory `./results/` for specific seeds, with a prefix in `--output_file`.
 
 ```
 python average.py --output-folder results --output-file attr_blog_10_
