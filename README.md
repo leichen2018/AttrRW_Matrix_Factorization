@@ -6,6 +6,12 @@ Authors: [Lei Chen](https://leichen2018.github.io) (NYU), Shunwang Gong (ICL), [
 
 [Graph Representation Learning Workshop NeurIPS 2019](https://grlearning.github.io).
 
+## Acknowledgement
+
+* Code of GraphRNA is cloned from [https://github.com/xhuang31/GraphRNA_KDD19](https://github.com/xhuang31/GraphRNA_KDD19).
+
+* We would like to thank Zhengdao Chen (NYU) for suggestions and proofreading.
+
 ## Environment
 
 PyTorch, scipy, sklearn, numpy
@@ -82,9 +88,3 @@ Note that previous scripts store results for specific seeds, with a prefix in `-
 ```
 python average.py --output-folder results --output-file attr_blog_10_
 ```
-
-## Acknowledgement
-
-* Code of GraphRNA is cloned from [https://github.com/xhuang31/GraphRNA_KDD19](https://github.com/xhuang31/GraphRNA_KDD19).
-
-* We would like to thank Zhengdao Chen (NYU) for suggestions and proofreading.
