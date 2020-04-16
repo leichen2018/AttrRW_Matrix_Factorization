@@ -2,7 +2,7 @@
 
 Source code for [Attributed Random Walk as Matrix Factorization](https://grlearning.github.io/papers/95.pdf).
 
-Authors: [Lei Chen](https://leichen2018.github.io) (NYU), Shunwang Gong (ICL), [Joan Bruna](https://cims.nyu.edu/~bruna/) (NYU), [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) (Twitter/ICL/USI).
+Authors: [Lei Chen](https://leichen2018.github.io) (NYU), [Shunwang Gong](https://scholar.google.com/citations?user=gugiwpIAAAAJ&hl=en) (ICL), [Joan Bruna](https://cims.nyu.edu/~bruna/) (NYU), [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) (Twitter/ICL/USI).
 
 [Graph Representation Learning Workshop NeurIPS 2019](https://grlearning.github.io).
 
@@ -10,7 +10,7 @@ Authors: [Lei Chen](https://leichen2018.github.io) (NYU), Shunwang Gong (ICL), [
 
 * Code of GraphRNA is cloned from [https://github.com/xhuang31/GraphRNA_KDD19](https://github.com/xhuang31/GraphRNA_KDD19).
 
-* We would like to thank Zhengdao Chen (NYU) for suggestions and proofreading.
+* We would like to thank [Zhengdao Chen](https://cims.nyu.edu/~chenzh/) (NYU) for suggestions and proofreading.
 
 ## Environment
 
